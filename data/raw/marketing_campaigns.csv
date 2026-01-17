@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,region,start_date,end_date,objective,spend_usd
+CMP-0101,Invis-LeadGen-Q1-PaidSearch,Paid Search,NA,2024-01-01,2024-03-31,Lead Gen,85000
+CMP-0102,Invis-LeadGen-Q1-LinkedIn,LinkedIn,EMEA,2024-01-15,2024-03-31,Lead Gen,42000
+CMP-0103,ProductLaunch-Webinar-Series,Webinar,APAC,2024-02-01,2024-02-28,Demand Gen,12000
+CMP-0104,Retargeting-Q2,Display,NA,2024-04-01,2024-06-30,Conversion,50000
+CMP-0105,Partner-Referrals-Program,Partners,EMEA,2024-04-01,2024-12-31,Pipeline,30000
