@@ -1,0 +1,6 @@
+account_id,account_name,region,country,segment,created_date,is_active
+ACC-0001,SmileCare Clinic,NA,USA,Orthodontic Clinic,2024-01-12,TRUE
+ACC-0002,OrthoPlus Center,EMEA,Germany,Orthodontic Clinic,2024-02-03,TRUE
+ACC-0003,Dentistry Hub,APAC,Japan,DSO,2024-03-18,TRUE
+ACC-0004,City Orthodontics,EMEA,France,Orthodontic Clinic,2024-04-21,TRUE
+ACC-0005,Prime Dental Group,NA,Canada,DSO,2024-05-09,TRUE
