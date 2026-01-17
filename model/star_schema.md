@@ -1,6 +1,4 @@
-# Star Schema (v1)
-
-Goal: a clean Power BI semantic model where dimensions filter facts (no many-to-many chaos).
+# Star Schema
 
 ## Dimensions (lookup tables)
 - **dim_date** (Power BI-generated): one row per day, used by all time-based reporting
