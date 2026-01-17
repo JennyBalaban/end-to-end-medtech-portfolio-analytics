@@ -1,0 +1,6 @@
+opp_id,account_id,lead_id,created_date,close_date,stage,amount_usd,product_line,region
+OPP-2001,ACC-0001,LEAD-1001,2024-01-20,2024-02-10,Closed Won,45000,Clear Aligners,NA
+OPP-2002,ACC-0002,LEAD-1002,2024-02-05,2024-03-01,Closed Won,62000,Clear Aligners,EMEA
+OPP-2003,ACC-0003,LEAD-1003,2024-02-15,,Negotiation,30000,Scanner,APAC
+OPP-2004,ACC-0005,LEAD-1004,2024-04-20,,Proposal,52000,Clear Aligners,NA
+OPP-2005,ACC-0004,LEAD-1005,2024-05-20,2024-06-25,Closed Lost,40000,Clear Aligners,EMEA
