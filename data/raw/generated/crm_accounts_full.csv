@@ -1,0 +1,251 @@
+account_id,account_name,region,country,segment,created_date,is_active
+ACC-0001,Account 0001,APAC,Japan,Orthodontic Clinic,2023-10-09,True
+ACC-0002,Account 0002,NA,USA,Orthodontic Clinic,2023-04-15,True
+ACC-0003,Account 0003,APAC,Singapore,Orthodontic Clinic,2024-08-27,True
+ACC-0004,Account 0004,EMEA,Germany,Orthodontic Clinic,2023-04-06,True
+ACC-0005,Account 0005,NA,USA,Orthodontic Clinic,2024-07-28,True
+ACC-0006,Account 0006,NA,Canada,Orthodontic Clinic,2024-04-04,True
+ACC-0007,Account 0007,APAC,Korea,Orthodontic Clinic,2023-06-13,True
+ACC-0008,Account 0008,APAC,Korea,DSO,2023-10-12,True
+ACC-0009,Account 0009,NA,USA,DSO,2023-04-15,True
+ACC-0010,Account 0010,NA,Canada,Orthodontic Clinic,2024-01-03,True
+ACC-0011,Account 0011,EMEA,UK,DSO,2023-02-14,True
+ACC-0012,Account 0012,APAC,Korea,Orthodontic Clinic,2024-01-23,True
+ACC-0013,Account 0013,NA,Canada,DSO,2024-08-14,True
+ACC-0014,Account 0014,NA,USA,Orthodontic Clinic,2024-11-08,True
+ACC-0015,Account 0015,NA,Canada,Orthodontic Clinic,2023-08-27,True
+ACC-0016,Account 0016,NA,Canada,DSO,2024-04-09,True
+ACC-0017,Account 0017,APAC,Korea,Orthodontic Clinic,2024-01-15,True
+ACC-0018,Account 0018,EMEA,Germany,DSO,2024-11-30,True
+ACC-0019,Account 0019,APAC,Japan,Orthodontic Clinic,2024-06-30,True
+ACC-0020,Account 0020,APAC,Japan,Orthodontic Clinic,2024-04-18,True
+ACC-0021,Account 0021,EMEA,France,Orthodontic Clinic,2023-11-29,True
+ACC-0022,Account 0022,NA,USA,Orthodontic Clinic,2023-11-20,True
+ACC-0023,Account 0023,EMEA,France,Orthodontic Clinic,2023-08-05,True
+ACC-0024,Account 0024,APAC,Singapore,DSO,2023-08-06,True
+ACC-0025,Account 0025,APAC,Korea,DSO,2024-10-20,True
+ACC-0026,Account 0026,EMEA,Germany,DSO,2023-05-23,True
+ACC-0027,Account 0027,NA,Canada,DSO,2024-08-20,True
+ACC-0028,Account 0028,EMEA,France,Orthodontic Clinic,2023-05-22,True
+ACC-0029,Account 0029,APAC,Korea,Orthodontic Clinic,2023-02-18,True
+ACC-0030,Account 0030,NA,USA,Orthodontic Clinic,2024-11-27,True
+ACC-0031,Account 0031,EMEA,UK,Orthodontic Clinic,2024-01-30,True
+ACC-0032,Account 0032,EMEA,UK,DSO,2024-06-25,True
+ACC-0033,Account 0033,EMEA,UK,Orthodontic Clinic,2024-11-27,True
+ACC-0034,Account 0034,APAC,Japan,DSO,2024-10-18,True
+ACC-0035,Account 0035,EMEA,Germany,DSO,2024-03-21,True
+ACC-0036,Account 0036,NA,Canada,Orthodontic Clinic,2023-09-27,True
+ACC-0037,Account 0037,APAC,Japan,Orthodontic Clinic,2024-10-02,True
+ACC-0038,Account 0038,EMEA,UK,Orthodontic Clinic,2023-06-06,True
+ACC-0039,Account 0039,EMEA,Germany,Orthodontic Clinic,2024-09-05,True
+ACC-0040,Account 0040,EMEA,France,Orthodontic Clinic,2023-04-25,True
+ACC-0041,Account 0041,EMEA,France,Orthodontic Clinic,2023-03-01,True
+ACC-0042,Account 0042,NA,USA,Orthodontic Clinic,2024-05-12,True
+ACC-0043,Account 0043,NA,USA,Orthodontic Clinic,2024-11-06,True
+ACC-0044,Account 0044,EMEA,UK,Orthodontic Clinic,2023-09-29,True
+ACC-0045,Account 0045,APAC,Singapore,DSO,2023-08-05,True
+ACC-0046,Account 0046,APAC,Singapore,Orthodontic Clinic,2023-11-16,True
+ACC-0047,Account 0047,EMEA,UK,DSO,2024-03-24,True
+ACC-0048,Account 0048,APAC,Korea,Orthodontic Clinic,2023-09-11,True
+ACC-0049,Account 0049,NA,USA,DSO,2023-01-22,True
+ACC-0050,Account 0050,APAC,Singapore,Orthodontic Clinic,2024-08-25,True
+ACC-0051,Account 0051,NA,USA,Orthodontic Clinic,2024-10-08,True
+ACC-0052,Account 0052,NA,USA,Orthodontic Clinic,2023-02-02,True
+ACC-0053,Account 0053,EMEA,Germany,Orthodontic Clinic,2023-10-13,True
+ACC-0054,Account 0054,APAC,Korea,Orthodontic Clinic,2024-07-06,True
+ACC-0055,Account 0055,NA,Canada,Orthodontic Clinic,2024-04-29,True
+ACC-0056,Account 0056,EMEA,Germany,Orthodontic Clinic,2023-04-10,True
+ACC-0057,Account 0057,APAC,Korea,DSO,2024-03-09,True
+ACC-0058,Account 0058,EMEA,France,Orthodontic Clinic,2024-11-20,True
+ACC-0059,Account 0059,APAC,Singapore,Orthodontic Clinic,2023-03-04,True
+ACC-0060,Account 0060,EMEA,UK,DSO,2023-04-22,True
+ACC-0061,Account 0061,NA,USA,Orthodontic Clinic,2024-07-03,True
+ACC-0062,Account 0062,EMEA,Germany,DSO,2023-07-07,True
+ACC-0063,Account 0063,EMEA,France,Orthodontic Clinic,2023-03-19,True
+ACC-0064,Account 0064,EMEA,UK,Orthodontic Clinic,2023-02-21,True
+ACC-0065,Account 0065,APAC,Singapore,Orthodontic Clinic,2023-04-06,True
+ACC-0066,Account 0066,NA,USA,DSO,2024-05-12,True
+ACC-0067,Account 0067,EMEA,Germany,DSO,2023-03-02,True
+ACC-0068,Account 0068,NA,Canada,Orthodontic Clinic,2024-02-04,True
+ACC-0069,Account 0069,EMEA,France,DSO,2024-03-09,True
+ACC-0070,Account 0070,APAC,Singapore,DSO,2023-06-08,True
+ACC-0071,Account 0071,NA,Canada,Orthodontic Clinic,2023-03-01,True
+ACC-0072,Account 0072,APAC,Singapore,Orthodontic Clinic,2023-11-18,True
+ACC-0073,Account 0073,NA,USA,DSO,2024-05-29,True
+ACC-0074,Account 0074,APAC,Japan,Orthodontic Clinic,2024-06-04,True
+ACC-0075,Account 0075,NA,USA,Orthodontic Clinic,2024-09-01,True
+ACC-0076,Account 0076,NA,USA,DSO,2023-05-03,True
+ACC-0077,Account 0077,APAC,Japan,Orthodontic Clinic,2024-09-26,True
+ACC-0078,Account 0078,NA,Canada,DSO,2023-09-25,True
+ACC-0079,Account 0079,NA,Canada,Orthodontic Clinic,2023-09-29,True
+ACC-0080,Account 0080,EMEA,Germany,DSO,2024-04-13,True
+ACC-0081,Account 0081,EMEA,Germany,Orthodontic Clinic,2024-04-14,True
+ACC-0082,Account 0082,APAC,Singapore,Orthodontic Clinic,2023-03-17,True
+ACC-0083,Account 0083,APAC,Japan,DSO,2023-05-16,True
+ACC-0084,Account 0084,EMEA,Germany,Orthodontic Clinic,2024-01-14,True
+ACC-0085,Account 0085,EMEA,Germany,DSO,2024-07-10,True
+ACC-0086,Account 0086,APAC,Korea,Orthodontic Clinic,2024-11-14,True
+ACC-0087,Account 0087,APAC,Korea,Orthodontic Clinic,2023-05-18,True
+ACC-0088,Account 0088,EMEA,Germany,Orthodontic Clinic,2024-07-20,True
+ACC-0089,Account 0089,NA,Canada,DSO,2024-09-11,True
+ACC-0090,Account 0090,NA,Canada,Orthodontic Clinic,2024-10-11,True
+ACC-0091,Account 0091,EMEA,UK,DSO,2023-09-15,True
+ACC-0092,Account 0092,NA,USA,DSO,2023-10-11,True
+ACC-0093,Account 0093,NA,USA,DSO,2023-05-14,True
+ACC-0094,Account 0094,APAC,Korea,Orthodontic Clinic,2024-03-28,True
+ACC-0095,Account 0095,APAC,Singapore,DSO,2024-07-28,True
+ACC-0096,Account 0096,NA,USA,Orthodontic Clinic,2023-06-02,True
+ACC-0097,Account 0097,APAC,Japan,DSO,2024-08-19,True
+ACC-0098,Account 0098,APAC,Japan,DSO,2023-05-11,True
+ACC-0099,Account 0099,NA,Canada,DSO,2023-02-10,True
+ACC-0100,Account 0100,EMEA,Germany,Orthodontic Clinic,2024-11-13,True
+ACC-0101,Account 0101,NA,Canada,DSO,2024-09-27,True
+ACC-0102,Account 0102,APAC,Japan,Orthodontic Clinic,2023-06-16,True
+ACC-0103,Account 0103,NA,Canada,Orthodontic Clinic,2023-07-03,True
+ACC-0104,Account 0104,APAC,Korea,DSO,2024-11-16,True
+ACC-0105,Account 0105,APAC,Japan,DSO,2023-06-13,True
+ACC-0106,Account 0106,APAC,Japan,DSO,2023-02-09,True
+ACC-0107,Account 0107,EMEA,Germany,Orthodontic Clinic,2024-04-16,True
+ACC-0108,Account 0108,EMEA,France,Orthodontic Clinic,2023-08-17,True
+ACC-0109,Account 0109,NA,USA,DSO,2023-12-03,True
+ACC-0110,Account 0110,EMEA,Germany,DSO,2023-12-26,True
+ACC-0111,Account 0111,APAC,Singapore,DSO,2024-11-26,True
+ACC-0112,Account 0112,APAC,Korea,Orthodontic Clinic,2023-04-29,True
+ACC-0113,Account 0113,EMEA,Germany,DSO,2023-02-09,True
+ACC-0114,Account 0114,NA,Canada,DSO,2023-11-18,True
+ACC-0115,Account 0115,EMEA,UK,Orthodontic Clinic,2024-01-30,True
+ACC-0116,Account 0116,APAC,Japan,DSO,2023-02-15,True
+ACC-0117,Account 0117,APAC,Korea,Orthodontic Clinic,2024-06-16,True
+ACC-0118,Account 0118,APAC,Singapore,Orthodontic Clinic,2024-01-08,True
+ACC-0119,Account 0119,EMEA,Germany,DSO,2024-09-30,True
+ACC-0120,Account 0120,EMEA,UK,Orthodontic Clinic,2023-11-04,True
+ACC-0121,Account 0121,APAC,Korea,DSO,2023-12-01,True
+ACC-0122,Account 0122,EMEA,UK,DSO,2024-07-21,True
+ACC-0123,Account 0123,NA,USA,DSO,2024-11-11,True
+ACC-0124,Account 0124,EMEA,UK,Orthodontic Clinic,2024-09-22,True
+ACC-0125,Account 0125,APAC,Korea,DSO,2024-07-15,True
+ACC-0126,Account 0126,NA,Canada,DSO,2023-08-04,True
+ACC-0127,Account 0127,EMEA,UK,DSO,2024-04-21,True
+ACC-0128,Account 0128,EMEA,France,Orthodontic Clinic,2024-06-07,True
+ACC-0129,Account 0129,EMEA,UK,Orthodontic Clinic,2024-11-05,True
+ACC-0130,Account 0130,NA,Canada,DSO,2023-04-06,True
+ACC-0131,Account 0131,NA,Canada,Orthodontic Clinic,2023-07-23,True
+ACC-0132,Account 0132,NA,USA,Orthodontic Clinic,2023-09-08,True
+ACC-0133,Account 0133,EMEA,UK,Orthodontic Clinic,2024-04-11,True
+ACC-0134,Account 0134,EMEA,UK,Orthodontic Clinic,2024-01-29,True
+ACC-0135,Account 0135,EMEA,France,Orthodontic Clinic,2023-06-01,True
+ACC-0136,Account 0136,APAC,Singapore,Orthodontic Clinic,2023-04-20,True
+ACC-0137,Account 0137,EMEA,Germany,Orthodontic Clinic,2024-06-14,True
+ACC-0138,Account 0138,EMEA,Germany,Orthodontic Clinic,2023-05-05,True
+ACC-0139,Account 0139,EMEA,Germany,DSO,2024-11-14,True
+ACC-0140,Account 0140,APAC,Singapore,DSO,2024-03-29,True
+ACC-0141,Account 0141,APAC,Singapore,DSO,2024-07-15,True
+ACC-0142,Account 0142,EMEA,Germany,DSO,2024-04-05,True
+ACC-0143,Account 0143,EMEA,Germany,DSO,2024-06-17,True
+ACC-0144,Account 0144,EMEA,UK,Orthodontic Clinic,2023-10-09,True
+ACC-0145,Account 0145,EMEA,Germany,DSO,2023-08-29,True
+ACC-0146,Account 0146,EMEA,France,DSO,2024-07-07,True
+ACC-0147,Account 0147,NA,USA,Orthodontic Clinic,2023-08-25,True
+ACC-0148,Account 0148,EMEA,UK,Orthodontic Clinic,2023-08-08,True
+ACC-0149,Account 0149,NA,Canada,DSO,2023-12-05,True
+ACC-0150,Account 0150,APAC,Korea,DSO,2023-03-05,True
+ACC-0151,Account 0151,NA,Canada,DSO,2024-08-21,True
+ACC-0152,Account 0152,APAC,Japan,DSO,2024-05-03,True
+ACC-0153,Account 0153,NA,Canada,DSO,2024-02-04,True
+ACC-0154,Account 0154,EMEA,UK,Orthodontic Clinic,2024-05-14,True
+ACC-0155,Account 0155,NA,Canada,DSO,2024-05-12,True
+ACC-0156,Account 0156,NA,Canada,DSO,2024-11-15,True
+ACC-0157,Account 0157,APAC,Korea,Orthodontic Clinic,2024-04-23,True
+ACC-0158,Account 0158,NA,USA,DSO,2024-08-29,True
+ACC-0159,Account 0159,APAC,Singapore,Orthodontic Clinic,2023-03-27,True
+ACC-0160,Account 0160,APAC,Korea,Orthodontic Clinic,2024-04-17,True
+ACC-0161,Account 0161,NA,USA,DSO,2024-01-24,True
+ACC-0162,Account 0162,EMEA,Germany,DSO,2023-12-01,True
+ACC-0163,Account 0163,EMEA,France,DSO,2024-03-07,True
+ACC-0164,Account 0164,EMEA,Germany,DSO,2023-01-20,True
+ACC-0165,Account 0165,APAC,Singapore,Orthodontic Clinic,2023-12-25,True
+ACC-0166,Account 0166,NA,USA,Orthodontic Clinic,2023-02-01,True
+ACC-0167,Account 0167,NA,USA,Orthodontic Clinic,2024-09-28,True
+ACC-0168,Account 0168,NA,USA,Orthodontic Clinic,2024-04-29,True
+ACC-0169,Account 0169,APAC,Japan,Orthodontic Clinic,2024-04-21,True
+ACC-0170,Account 0170,APAC,Korea,DSO,2023-06-21,True
+ACC-0171,Account 0171,APAC,Singapore,Orthodontic Clinic,2023-06-17,True
+ACC-0172,Account 0172,EMEA,Germany,Orthodontic Clinic,2023-11-16,True
+ACC-0173,Account 0173,APAC,Singapore,DSO,2024-02-11,True
+ACC-0174,Account 0174,APAC,Japan,Orthodontic Clinic,2024-08-29,True
+ACC-0175,Account 0175,APAC,Singapore,Orthodontic Clinic,2023-04-15,True
+ACC-0176,Account 0176,APAC,Korea,Orthodontic Clinic,2024-08-02,True
+ACC-0177,Account 0177,NA,Canada,DSO,2024-11-08,True
+ACC-0178,Account 0178,EMEA,Germany,DSO,2023-01-13,True
+ACC-0179,Account 0179,EMEA,France,Orthodontic Clinic,2024-03-19,True
+ACC-0180,Account 0180,EMEA,UK,DSO,2023-06-06,True
+ACC-0181,Account 0181,EMEA,Germany,DSO,2024-09-22,True
+ACC-0182,Account 0182,APAC,Korea,DSO,2024-03-22,True
+ACC-0183,Account 0183,APAC,Singapore,DSO,2023-11-27,True
+ACC-0184,Account 0184,NA,USA,DSO,2024-04-06,True
+ACC-0185,Account 0185,NA,Canada,DSO,2023-12-11,True
+ACC-0186,Account 0186,NA,Canada,DSO,2023-07-06,True
+ACC-0187,Account 0187,EMEA,Germany,DSO,2023-09-22,True
+ACC-0188,Account 0188,EMEA,France,DSO,2024-07-23,True
+ACC-0189,Account 0189,NA,USA,Orthodontic Clinic,2023-09-05,True
+ACC-0190,Account 0190,APAC,Korea,DSO,2024-07-22,True
+ACC-0191,Account 0191,NA,Canada,DSO,2024-04-03,True
+ACC-0192,Account 0192,NA,USA,DSO,2023-08-15,True
+ACC-0193,Account 0193,EMEA,UK,Orthodontic Clinic,2023-11-10,True
+ACC-0194,Account 0194,APAC,Singapore,DSO,2024-04-29,True
+ACC-0195,Account 0195,APAC,Singapore,DSO,2024-03-11,True
+ACC-0196,Account 0196,APAC,Singapore,DSO,2023-12-27,True
+ACC-0197,Account 0197,APAC,Korea,DSO,2023-11-10,True
+ACC-0198,Account 0198,EMEA,Germany,Orthodontic Clinic,2023-07-17,True
+ACC-0199,Account 0199,EMEA,Germany,Orthodontic Clinic,2023-07-16,True
+ACC-0200,Account 0200,NA,Canada,DSO,2024-08-26,True
+ACC-0201,Account 0201,APAC,Singapore,DSO,2023-04-13,True
+ACC-0202,Account 0202,NA,Canada,Orthodontic Clinic,2024-01-05,True
+ACC-0203,Account 0203,NA,Canada,Orthodontic Clinic,2024-06-30,True
+ACC-0204,Account 0204,NA,Canada,Orthodontic Clinic,2023-02-25,True
+ACC-0205,Account 0205,APAC,Korea,Orthodontic Clinic,2024-10-15,True
+ACC-0206,Account 0206,EMEA,Germany,Orthodontic Clinic,2024-08-10,True
+ACC-0207,Account 0207,EMEA,France,DSO,2024-03-27,True
+ACC-0208,Account 0208,EMEA,Germany,Orthodontic Clinic,2023-09-16,True
+ACC-0209,Account 0209,EMEA,Germany,Orthodontic Clinic,2024-02-15,True
+ACC-0210,Account 0210,EMEA,Germany,Orthodontic Clinic,2023-06-05,True
+ACC-0211,Account 0211,NA,Canada,Orthodontic Clinic,2023-09-12,True
+ACC-0212,Account 0212,NA,Canada,Orthodontic Clinic,2024-06-19,True
+ACC-0213,Account 0213,EMEA,France,DSO,2023-11-01,True
+ACC-0214,Account 0214,APAC,Korea,DSO,2024-08-05,True
+ACC-0215,Account 0215,APAC,Japan,Orthodontic Clinic,2023-08-01,True
+ACC-0216,Account 0216,APAC,Japan,DSO,2024-11-07,True
+ACC-0217,Account 0217,NA,USA,Orthodontic Clinic,2023-06-27,True
+ACC-0218,Account 0218,APAC,Japan,Orthodontic Clinic,2023-01-03,True
+ACC-0219,Account 0219,EMEA,France,DSO,2023-10-26,True
+ACC-0220,Account 0220,NA,USA,DSO,2023-10-17,True
+ACC-0221,Account 0221,APAC,Korea,Orthodontic Clinic,2023-08-28,True
+ACC-0222,Account 0222,EMEA,UK,Orthodontic Clinic,2024-03-11,True
+ACC-0223,Account 0223,NA,USA,Orthodontic Clinic,2023-09-30,True
+ACC-0224,Account 0224,NA,USA,Orthodontic Clinic,2023-06-19,True
+ACC-0225,Account 0225,EMEA,UK,DSO,2024-03-25,True
+ACC-0226,Account 0226,NA,Canada,DSO,2024-02-17,True
+ACC-0227,Account 0227,EMEA,UK,DSO,2024-03-24,True
+ACC-0228,Account 0228,NA,USA,DSO,2023-11-27,True
+ACC-0229,Account 0229,APAC,Korea,Orthodontic Clinic,2023-04-04,True
+ACC-0230,Account 0230,NA,USA,DSO,2024-08-13,True
+ACC-0231,Account 0231,NA,USA,DSO,2024-06-15,True
+ACC-0232,Account 0232,APAC,Korea,DSO,2023-07-05,True
+ACC-0233,Account 0233,APAC,Korea,DSO,2023-04-04,True
+ACC-0234,Account 0234,EMEA,France,DSO,2023-12-08,True
+ACC-0235,Account 0235,EMEA,UK,Orthodontic Clinic,2023-06-14,True
+ACC-0236,Account 0236,EMEA,France,DSO,2023-10-23,True
+ACC-0237,Account 0237,APAC,Korea,Orthodontic Clinic,2024-04-10,True
+ACC-0238,Account 0238,NA,Canada,DSO,2023-11-28,True
+ACC-0239,Account 0239,NA,Canada,Orthodontic Clinic,2024-11-04,True
+ACC-0240,Account 0240,APAC,Korea,DSO,2023-02-25,True
+ACC-0241,Account 0241,NA,Canada,DSO,2024-10-02,True
+ACC-0242,Account 0242,EMEA,Germany,Orthodontic Clinic,2023-10-01,True
+ACC-0243,Account 0243,APAC,Japan,DSO,2024-03-24,True
+ACC-0244,Account 0244,APAC,Korea,Orthodontic Clinic,2023-01-30,True
+ACC-0245,Account 0245,APAC,Singapore,Orthodontic Clinic,2023-06-12,True
+ACC-0246,Account 0246,EMEA,UK,Orthodontic Clinic,2024-07-19,True
+ACC-0247,Account 0247,EMEA,Germany,Orthodontic Clinic,2023-04-27,True
+ACC-0248,Account 0248,EMEA,Germany,Orthodontic Clinic,2024-05-25,True
+ACC-0249,Account 0249,APAC,Korea,DSO,2024-03-01,True
+ACC-0250,Account 0250,EMEA,France,Orthodontic Clinic,2024-04-12,True
