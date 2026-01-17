@@ -1,0 +1,6 @@
+shipment_id,ship_date,region,account_id,doctor_id,product_line,cases_shipped
+SHP-3001,2024-02-12,NA,ACC-0001,DR-9001,Clear Aligners,3
+SHP-3002,2024-02-20,NA,ACC-0001,DR-9002,Clear Aligners,2
+SHP-3003,2024-03-05,EMEA,ACC-0002,DR-9003,Clear Aligners,4
+SHP-3004,2024-04-18,EMEA,ACC-0004,DR-9004,Scanner,1
+SHP-3005,2024-05-25,NA,ACC-0005,DR-9005,Clear Aligners,5
